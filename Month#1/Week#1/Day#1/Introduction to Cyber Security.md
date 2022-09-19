@@ -1,7 +1,7 @@
 # Introduction to Cyber Security
 ## What is Cyber Security :
 * Cyber security is the practice of protecting systems, networks, and programs from digital attacks. These cyber attacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.
-                                                                               OR
+                                                                               
 * Computer security, cyber security, or information technology security is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide .
 # TABLE OF CONTENT
 *	Why we need Cyber Security
