@@ -26,6 +26,9 @@
 Tor uses an onion-style routing technique for transmitting data. When you use the Tor browser to digitally communicate or access a website, the Tor network does not directly connect your computer to that website. Instead, the traffic from your browser is intercepted by Tor and bounced to a random number of other Tor users’ computers before passing the request to its final website destination.
 * **Many dark web enterprises and activities are only accessible via Tor.**
 
+![image](https://user-images.githubusercontent.com/104230071/197158139-059f014d-d995-46fc-8e1b-7200db8a3bb0.png)
+
+
 # Who Uses Tor and Why
 
 Though Tor is best known for its illicit uses, many Internet users can have different, valid reasons for accessing the Internet via Tor.
